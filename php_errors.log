@@ -1,0 +1,1156 @@
+[16-Oct-2024 02:09:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "SQLite3" not found in C:\xampp\htdocs\Coding class\php.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Coding class\php.php on line 10
+[16-Oct-2024 02:23:58 Europe/Berlin] Exception: SQLSTATE[HY000]: General error: 1 no such column: test
+[16-Oct-2024 03:59:05 Europe/Berlin] Exception: SQLSTATE[HY000]: General error: 26 file is not a database
+[16-Oct-2024 04:03:21 Europe/Berlin] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+[16-Oct-2024 04:07:07 Europe/Berlin] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Midhlaj'@'localhost' (using password: YES)
+[16-Oct-2024 17:32:51 Europe/Berlin] Received POST data: Array
+(
+    [score] => 4
+    [testType] => HTML
+    [userId] => 1
+)
+
+[16-Oct-2024 17:36:11 Europe/Berlin] Received POST data: Array
+(
+    [score] => 4
+    [testType] => HTML
+    [userId] => 1
+)
+
+[16-Oct-2024 17:37:19 Europe/Berlin] Received POST data: Array
+(
+    [score] => 4
+    [testType] => HTML
+    [userId] => 1
+)
+
+[16-Oct-2024 17:40:18 Europe/Berlin] Received POST data: Array
+(
+    [score] => 4
+    [testType] => HTML
+    [userId] => 1
+)
+
+[16-Oct-2024 17:44:55 Europe/Berlin] Received POST data: Array
+(
+    [score] => 4
+    [testType] => HTML
+    [userId] => 1
+)
+
+[16-Oct-2024 17:48:56 Europe/Berlin] Received POST data: Array
+(
+    [score] => 4
+    [testType] => HTML
+    [userId] => 1
+)
+
+[16-Oct-2024 17:52:16 Europe/Berlin] Received POST data: Array
+(
+    [score] => 4
+    [testType] => HTML
+    [userId] => 1
+)
+
+[16-Oct-2024 18:10:40 Europe/Berlin] Received POST data: Array
+(
+    [score] => 4
+    [testType] => HTML
+    [userId] => 1
+)
+
+[16-Oct-2024 18:29:46 Europe/Berlin] Received POST data: Array
+(
+    [score] => 4
+    [testType] => HTML
+    [userId] => 1
+)
+
+[16-Oct-2024 18:31:52 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [test_type] => HTML
+    [score] => 6
+)
+
+[16-Oct-2024 18:36:27 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [test_type] => HTML
+    [score] => 5
+)
+
+[16-Oct-2024 18:39:07 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [test_type] => HTML
+    [score] => 5
+)
+
+[16-Oct-2024 18:43:30 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [test_type] => HTML
+    [score] => 5
+)
+
+[16-Oct-2024 18:56:38 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 5
+)
+
+[16-Oct-2024 18:59:44 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 5
+)
+
+[16-Oct-2024 18:59:44 Europe/Berlin] PHP Warning:  Undefined array key "test_type" in C:\xampp\htdocs\Coding class\mark.php on line 27
+[16-Oct-2024 18:59:44 Europe/Berlin] Exception: Invalid test type
+[16-Oct-2024 19:00:28 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 5
+)
+
+[17-Oct-2024 06:10:37 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => undefined
+    [score] => 5
+)
+
+[17-Oct-2024 06:10:37 Europe/Berlin] Exception: Invalid test type
+[17-Oct-2024 06:11:26 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => undefined
+    [score] => 6
+)
+
+[17-Oct-2024 06:11:26 Europe/Berlin] Exception: Invalid test type
+[18-Oct-2024 05:38:48 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => undefined
+    [score] => 6
+)
+
+[18-Oct-2024 05:38:48 Europe/Berlin] Exception: Invalid test type
+[18-Oct-2024 05:43:06 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => undefined
+    [score] => 6
+)
+
+[18-Oct-2024 05:43:06 Europe/Berlin] Exception: Invalid test type
+[18-Oct-2024 05:45:55 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => undefined
+    [score] => 6
+)
+
+[18-Oct-2024 05:45:55 Europe/Berlin] Exception: Invalid test type
+[18-Oct-2024 06:18:43 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => undefined
+    [score] => 6
+)
+
+[18-Oct-2024 06:18:43 Europe/Berlin] Exception: Invalid test type
+[18-Oct-2024 09:46:16 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 6
+)
+
+[18-Oct-2024 13:31:20 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 6
+)
+
+[18-Oct-2024 13:31:20 Europe/Berlin] Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'htmlscore' in 'field list'
+[18-Oct-2024 13:33:43 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 6
+)
+
+[18-Oct-2024 13:42:24 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 6
+)
+
+[18-Oct-2024 13:42:24 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: error_log(): Argument #2 ($message_type) must be of type int, array given in C:\xampp\htdocs\Coding class\mark.php:68
+Stack trace:
+#0 C:\xampp\htdocs\Coding class\mark.php(68): error_log('user data: ', Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\Coding class\mark.php on line 68
+[18-Oct-2024 15:19:00 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 6
+)
+
+[18-Oct-2024 15:19:00 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 6
+)
+
+[18-Oct-2024 15:22:51 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 6
+)
+
+[18-Oct-2024 15:22:51 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 6
+)
+
+[18-Oct-2024 15:43:03 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 6
+)
+
+[18-Oct-2024 15:43:03 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 6
+)
+
+[18-Oct-2024 18:28:54 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 18:28:54 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 60
+[18-Oct-2024 18:28:54 Europe/Berlin] user data: 
+[18-Oct-2024 18:28:54 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 87
+[18-Oct-2024 18:29:38 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 18:29:38 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 60
+[18-Oct-2024 18:29:38 Europe/Berlin] user data: 
+[18-Oct-2024 18:29:38 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 87
+[18-Oct-2024 18:40:45 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 18:40:45 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 60
+[18-Oct-2024 18:40:45 Europe/Berlin] user data: 
+[18-Oct-2024 18:50:34 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 18:50:34 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 60
+[18-Oct-2024 18:50:34 Europe/Berlin] user data: 
+[18-Oct-2024 18:52:59 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 18:52:59 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 60
+[18-Oct-2024 18:52:59 Europe/Berlin] user data: 
+[18-Oct-2024 18:54:42 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 5
+)
+
+[18-Oct-2024 18:54:42 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 5
+)
+
+[18-Oct-2024 18:55:10 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 18:55:10 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 60
+[18-Oct-2024 18:55:10 Europe/Berlin] user data: 
+[18-Oct-2024 18:56:40 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 18:56:40 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 60
+[18-Oct-2024 18:56:40 Europe/Berlin] user data: 
+[18-Oct-2024 18:58:03 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 18:58:03 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 60
+[18-Oct-2024 18:58:03 Europe/Berlin] user data: 
+[18-Oct-2024 19:01:05 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 19:01:05 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 60
+[18-Oct-2024 19:01:05 Europe/Berlin] user data: 
+[18-Oct-2024 19:01:56 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 5
+)
+
+[18-Oct-2024 19:01:56 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 5
+)
+
+[18-Oct-2024 19:02:15 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 19:02:15 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 60
+[18-Oct-2024 19:02:15 Europe/Berlin] user data: 
+[18-Oct-2024 19:03:01 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 19:03:01 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 60
+[18-Oct-2024 19:03:01 Europe/Berlin] user data: 
+[18-Oct-2024 19:39:35 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 5
+)
+
+[18-Oct-2024 19:39:35 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 5
+)
+
+[18-Oct-2024 19:44:09 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 5
+)
+
+[18-Oct-2024 19:44:09 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 5
+)
+
+[18-Oct-2024 19:44:57 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 5
+)
+
+[18-Oct-2024 19:44:57 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 5
+)
+
+[18-Oct-2024 19:45:03 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 19:45:03 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 58
+[18-Oct-2024 19:45:03 Europe/Berlin] user data: 
+[18-Oct-2024 19:47:09 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 19:47:09 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 58
+[18-Oct-2024 19:47:09 Europe/Berlin] user data: 
+[18-Oct-2024 20:17:02 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 20:17:02 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\Coding class\mark.php on line 58
+[18-Oct-2024 20:17:02 Europe/Berlin] user data: 
+[18-Oct-2024 20:23:00 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 20:23:00 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\Coding class\mark.php on line 75
+[18-Oct-2024 20:23:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\xampp\htdocs\Coding class\mark.php:75
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Coding class\mark.php on line 75
+[18-Oct-2024 20:28:00 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 20:28:00 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\Coding class\mark.php on line 63
+[18-Oct-2024 20:28:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\xampp\htdocs\Coding class\mark.php:63
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Coding class\mark.php on line 63
+[18-Oct-2024 20:29:49 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 20:37:59 Europe/Berlin] Received POST data: Array
+(
+)
+
+[18-Oct-2024 20:38:09 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 02:52:05 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 03:28:10 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 03:29:03 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 05:50:49 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 6
+)
+
+[19-Oct-2024 05:50:49 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 6
+)
+
+[19-Oct-2024 05:51:01 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 05:51:07 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 06:06:06 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 07:15:55 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 07:17:14 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 07:17:20 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 07:38:20 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 07:39:47 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 07:51:56 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 08:28:29 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 08:31:56 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 08:40:34 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 08:43:20 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 6
+)
+
+[19-Oct-2024 08:43:20 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 6
+)
+
+[19-Oct-2024 08:43:30 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 08:44:06 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 08:47:08 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 08:52:40 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 08:54:11 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 2
+)
+
+[19-Oct-2024 08:54:11 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 2
+)
+
+[19-Oct-2024 08:56:49 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 2
+)
+
+[19-Oct-2024 08:56:49 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 2
+)
+
+[19-Oct-2024 09:04:07 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:05:01 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:12:29 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:14:53 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:15:37 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 2
+)
+
+[19-Oct-2024 09:15:37 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 2
+)
+
+[19-Oct-2024 09:15:42 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:16:56 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:17:37 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:17:37 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:17:49 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:24:25 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:24:41 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:25:58 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:26:13 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:26:13 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:26:23 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:28:22 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:29:21 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:29:35 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:29:35 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:29:48 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:30:32 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:31:12 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:31:48 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:31:48 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:31:59 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:35:52 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:36:34 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:36:50 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:36:50 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:36:55 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:41:39 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:42:07 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:42:18 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:42:18 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:42:27 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:43:09 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:43:38 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:43:55 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:43:55 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:44:08 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:44:53 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:45:22 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:45:33 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:45:33 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:46:05 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:46:54 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:47:28 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:47:44 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:47:44 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:47:50 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:48:51 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:49:34 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:49:56 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:50:10 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:50:10 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:50:12 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:51:03 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:52:08 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:52:19 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:52:19 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:52:28 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:53:19 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:53:48 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:54:02 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:54:02 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:54:11 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:56:13 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:56:28 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:57:02 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:57:02 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:57:12 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:57:56 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:58:29 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 09:58:45 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 09:58:45 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 09:58:57 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:01:02 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 10:01:02 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 10:01:25 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:02:01 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:02:32 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:04:33 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:05:10 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:05:24 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 10:05:24 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 10:05:36 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:08:29 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:08:56 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:09:09 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 10:09:09 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 10:09:12 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:10:20 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:10:47 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:10:59 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 10:10:59 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 10:11:11 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:12:22 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:16:07 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:16:36 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:16:48 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 10:16:48 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 10:16:56 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:20:00 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:20:28 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:20:40 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 10:20:40 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 10:20:44 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:21:40 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:22:07 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:22:20 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 10:22:20 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 10:22:24 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:23:04 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:23:29 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:23:42 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 10:23:42 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 10:23:44 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:24:26 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:24:51 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:25:04 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 10:25:04 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 10:25:06 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:25:43 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:26:06 Europe/Berlin] Received POST data: Array
+(
+)
+
+[19-Oct-2024 10:26:18 Europe/Berlin] Received POST data: Array
+(
+    [userId] => 1
+    [testType] => HTML
+    [score] => 3
+)
+
+[19-Oct-2024 10:26:18 Europe/Berlin] user data: Array
+(
+    [htmlmark] => 3
+)
+
+[19-Oct-2024 10:26:21 Europe/Berlin] Received POST data: Array
+(
+)
+
